@@ -13,5 +13,7 @@ Classic bioinformatic sequence alignment algorithms implemented into a simple op
 
 ## TODO
 1. Plan (1 Plan 2 ??? 3 Profit)
-	* Find contributors
-	* Create clear goals, graphics with envisioned end goals, lists of TODOs
+	- [ ] Find contributors
+	- [ ] Create clear goals
+	- [ ] Create graphics with envisioned end goals
+	- [ ] Create lists of TODOs
