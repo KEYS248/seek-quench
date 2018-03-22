@@ -4,7 +4,7 @@ Classic bioinformatic sequence alignment algorithms implemented into a simple op
 ## Goals
 1. Implement a web application that takes in two nucleotide sequences, aligns them based on classic bioinformatic algorithms such as the Needleman–Wunsch algorithm for global sequence alignment, and outputs the results.
 2. Allow more options!
-	* different kinds of sequence alignments such as semi-glocal and local
+	* different kinds of sequence alignments such as semi-global and local
 	* multiple sequence alignment using Burrows–Wheeler transform
 	* sequence conservation calculations such as sequence logos
 	* phylogenetic tree construction
