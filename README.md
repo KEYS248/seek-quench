@@ -1,5 +1,5 @@
 # seek-quench
-Classic bioinformatic sequence alignment algorithms implemented into a simple open source web app
+Classic bioinformatic sequence alignment algorithms implemented into a simple open source web app. The project is named Seek Quench because it sounds like sequence and we are trying to *quench* answers that people are *seek*ing about their sequences.
 
 ## Goals
 1. Implement a web application that takes in two nucleotide sequences, aligns them based on classic bioinformatic algorithms such as the Needleman–Wunsch algorithm for global sequence alignment, and outputs the results.
