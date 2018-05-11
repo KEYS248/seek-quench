@@ -10,11 +10,10 @@ The goal is to work on this project over summer and fall of 2018, ending by the 
 	* sequence conservation calculations such as sequence logos
 	* phylogenetic tree construction
 	* possibly other types of algorithms and options such as the profiles of PSI-Blast and Position Specific Scoring Matrices (PSSM)
-3. Think about future directions for this project.
+3. Implement other algorithms such as k-means clustering, cluster coefficients, and UPGMA tree construction.
 
 ## TODO
 1. Plan (1 Plan 2 ??? 3 Profit)
-	- [ ] Find contributors
 	- [ ] Create clear goals
 	- [ ] Create graphics with envisioned end goals
 	- [ ] Create lists of TODOs
