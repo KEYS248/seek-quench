@@ -1,7 +1,8 @@
+# Status
+Indefinitely stopped, sorry!
+
 # seek-quench
 Classic bioinformatic pairwise sequence alignment algorithms implemented into a simple open source web app that anyone can easily use. The project is named Seek Quench because it sounds like sequence and we are trying to *quench* answers that people are *seek*ing about their sequences.
-
-Direct questions, comments, and concerns to [David](https://github.com/KEYS248).
 
 ## Long Term TODO
 1. Build a web application using Django that takes in two nucleotide sequences, aligns them based on classic bioinformatic algorithms such as the Needleman–Wunsch algorithm for global sequence alignment, and outputs the results.
